@@ -1,0 +1,18 @@
+node_modules
+.env
+cache
+artifacts
+coverage
+typechain
+typechain-types
+
+# Hardhat
+hardhat.config.ts.timestamp
+
+# Frontend
+frontend/node_modules
+frontend/.next
+frontend/out
+frontend/build
+frontend/.env
+frontend/.env.local
